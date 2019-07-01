@@ -1,0 +1,94 @@
+{
+  "ppn" : [
+      {
+        "id" : 1,
+        "soal" : "Undang-Undang yang mengatur tentang Pajak Pertambahan Nilai (PPN) dan Pajak Penjualan atas Barng Mewah (PPnBM) adalah ...",
+        "jawabana" : "UU Nomor 17 Tahun 2000",
+        "jawabanb" : "UU Nomor 8 Tahun 1985",
+        "jawabanc" : "UU Nomor 42 Tahun 2009",
+        "jawaband" : "UU Nomor 28 Tahun 2007",
+        "kuncijawaban" : ""
+      },
+      {
+        "id" : 2,
+        "soal" : "Pajak Pertambahan Nilai yang terutang dihitung dengan cara mengalikan tarif sebagaimana dimaksud dalam Pasal 7 dengan Dasar Pengenaan Pajak yang meliputi ...",
+        "jawabana" : "Harga jual, Harga beli, Penggantian, Nilai lain",
+        "jawabanb" : "Harga jual, Penggantian, Nilai Import, Nilai Eksport",
+        "jawabanc" : "Harga jual, Penggantian, Nilai Import, Nilai Eksport, Nilai lain",
+        "jawaband" : "Nilai jual, Penggantian, Nilai Import, Nilai Eksport, DPP lain",
+        "kuncijawaban" : ""
+      },
+      {
+        "id" : 3,
+        "soal" : "Dasar hukum penentuan dasar pengenaan pajak dalam UU Nomor 42 Tahun 2009 terdapat pada pasal ...",
+        "jawabana" : "Pasal 8A",
+        "jawabanb" : "Pasal 8 ayat 2",
+        "jawabanc" : "Pasal 8",
+        "jawaband" : "Pasal 9",
+        "kuncijawaban" : ""
+      },
+      {
+        "id" : 4,
+        "soal" : "Pasal 1 angka 18 UU Nomor 42 Tahun 2009 merumuskan bahwa Harga Jual adalah ...",
+        "jawabana" : "Nilai berupa uang termasuk semua biaya yang diminta atau tidak seharusnya diminta oleh penjual karena penyerahan BKP, tidak termasuk pajak",
+        "jawabanb" : "Nilai berupa uang termasuk semua biaya yang diminta atau seharusnya diminta oleh penjual karena penyerahan BKP, tidak termasuk PPN",
+        "jawabanc" : "Nilai berupa uang termasuk semua biaya yang diminta atau tidak seharusnya diminta oleh penjual karena penyerahan BKP dan JKP, tidak termasuk pajak",
+        "jawaband" :	"Nilai berupa uang termasuk semua biaya yang diminta atau seharusnya diminta oleh penjual karena penyerahan BKP dan JKP, tidak termasuk pajak",
+        "kuncijawaban" : ""
+      },
+      {
+        "id" : 5,
+        "soal" : "Pasal 1 angka 19 UU Nomor 42 Tahun 2009 dirumuskan definisi Penggantian yang digunakan sebagai Dasar Pengenaan Pajak dalam hal pengusaha melakukan penyerahan adalah ...",
+        "jawabana" : "Jasa Kena Pajak, Ekspor Jasa Kena Pajak atau Ekspor BKP Tidak Berwujud",
+        "jawabanb" : "Jasa Kena Pajak, Ekspor Jasa Kena Pajak atau Ekspor BKP",
+        "jawabanc" : "Barang Kena Pajak, Jasa Kena Pajak, Ekspor Jasa Kena Pajak atau Ekspor BKP",
+        "jawaband" : "Jasa Kena Pajak, Ekspor Jasa Kena Pajak atau Impor BKP Tidak Berwujud",
+        "kuncijawaban" : ""
+      },
+      {
+        "id" : 6,
+        "soal" : "Dalam definisi Nilai Impor diperoleh rumus nilai impor sebagai berikut ...",
+        "jawabana" : "Nilai Impor = CIF + Bea Masuk + Cukai + PPnBM",
+        "jawabanb" : "Nilai Impor = CIF + Bea Masuk + Cukai",
+        "jawabanc" : "Nilai Impor = CIF + Bea Masuk + Cukai + PPN Impor",
+        "jawaband" : "Nilai Impor = CIF + Biaya Masuk + Cukai",
+        "kuncijawaban" : ""
+      },
+      {
+        "id" : 7,
+        "soal" : "Besarnya tarif Pajak Pertambahan Nilai adalah ...",
+        "jawabana" : "5 %",
+        "jawabanb" : "15 %",
+        "jawabanc" : "20 %",
+        "jawaband" : "10 %",
+        "kuncijawaban" : ""
+      },
+      {
+        "id" : 8,
+        "soal" : "Tarif Pajak Pertambahan Nilai sebesar 10 % diterapkan atas ...",
+        "jawabana" : "Ekspor Barang Kena Pajak Berwujud, ekspor Barang Kena Pajak Tidak Berwujud, dan ekspor Jasa Kena Pajak",
+        "jawabanb" : "Ekspor Barang Kena Pajak Berwujud, ekspor Barang Kena Pajak Tidak Berwujud",
+        "jawabanc" : "Ekspor Barang Kena Pajak Tidak Berwujud, dan ekspor Jasa Kena Pajak",
+        "jawaband" : "Ekspor Barang Kena Pajak Berwujud, dan ekspor Jasa Kena Pajak",
+        "kuncijawaban" : ""
+      },
+      {
+        "id" : 9,
+        "soal" : "Bendahara melakukan pembayaran atas pembelian ATK sebesar Rp10.000.000,- (harga termasuk PPN) berapakah PPN yang dipungut oleh bendahara ...",
+        "jawabana" : "Rp100.000,-",
+        "jawabanb" : "Rp909.090,-",
+        "jawabanc" : "Rp90.909,-",
+        "jawaband" : "110.000,-",
+        "kuncijawaban" : ""
+      },
+      {
+        "id" : 10,
+        "soal" : "Atas pengadaan computer dengan nilai pembayaran sebesar Rp9.350.000,- (harga sudah termasuk PPN) dikenakan pemungutan PPN oleh bendahara sebesar ...",
+        "jawabana" : "Rp935.000,-",
+        "jawabanb" : "Rp849.999,-",
+        "jawabanc" : "Rp425.000,-",
+        "jawaband" : "Rp467.500,-",
+        "kuncijawaban" : ""
+      }
+    ]
+  }
