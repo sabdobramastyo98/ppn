@@ -7,7 +7,7 @@
         "jawabanb" : "UU Nomor 8 Tahun 1985",
         "jawabanc" : "UU Nomor 42 Tahun 2009",
         "jawaband" : "UU Nomor 28 Tahun 2007",
-        "kuncijawaban" : ""
+        "kuncijawaban" : "UU Nomor 42 Tahun 2009"
       },
       {
         "id" : 2,
@@ -16,7 +16,7 @@
         "jawabanb" : "Harga jual, Penggantian, Nilai Import, Nilai Eksport",
         "jawabanc" : "Harga jual, Penggantian, Nilai Import, Nilai Eksport, Nilai lain",
         "jawaband" : "Nilai jual, Penggantian, Nilai Import, Nilai Eksport, DPP lain",
-        "kuncijawaban" : ""
+        "kuncijawaban" : "Harga jual, Penggantian, Nilai Import, Nilai Eksport, Nilai lain"
       },
       {
         "id" : 3,
@@ -25,7 +25,7 @@
         "jawabanb" : "Pasal 8 ayat 2",
         "jawabanc" : "Pasal 8",
         "jawaband" : "Pasal 9",
-        "kuncijawaban" : ""
+        "kuncijawaban" : "Pasal 8A"
       },
       {
         "id" : 4,
@@ -34,7 +34,7 @@
         "jawabanb" : "Nilai berupa uang termasuk semua biaya yang diminta atau seharusnya diminta oleh penjual karena penyerahan BKP, tidak termasuk PPN",
         "jawabanc" : "Nilai berupa uang termasuk semua biaya yang diminta atau tidak seharusnya diminta oleh penjual karena penyerahan BKP dan JKP, tidak termasuk pajak",
         "jawaband" :	"Nilai berupa uang termasuk semua biaya yang diminta atau seharusnya diminta oleh penjual karena penyerahan BKP dan JKP, tidak termasuk pajak",
-        "kuncijawaban" : ""
+        "kuncijawaban" : "Nilai berupa uang termasuk semua biaya yang diminta atau seharusnya diminta oleh penjual karena penyerahan BKP, tidak termasuk PPN"
       },
       {
         "id" : 5,
@@ -43,7 +43,7 @@
         "jawabanb" : "Jasa Kena Pajak, Ekspor Jasa Kena Pajak atau Ekspor BKP",
         "jawabanc" : "Barang Kena Pajak, Jasa Kena Pajak, Ekspor Jasa Kena Pajak atau Ekspor BKP",
         "jawaband" : "Jasa Kena Pajak, Ekspor Jasa Kena Pajak atau Impor BKP Tidak Berwujud",
-        "kuncijawaban" : ""
+        "kuncijawaban" : "Jasa Kena Pajak, Ekspor Jasa Kena Pajak atau Ekspor BKP Tidak Berwujud"
       },
       {
         "id" : 6,
@@ -52,7 +52,7 @@
         "jawabanb" : "Nilai Impor = CIF + Bea Masuk + Cukai",
         "jawabanc" : "Nilai Impor = CIF + Bea Masuk + Cukai + PPN Impor",
         "jawaband" : "Nilai Impor = CIF + Biaya Masuk + Cukai",
-        "kuncijawaban" : ""
+        "kuncijawaban" : "Nilai Impor = CIF + Bea Masuk + Cukai"
       },
       {
         "id" : 7,
@@ -61,7 +61,7 @@
         "jawabanb" : "15 %",
         "jawabanc" : "20 %",
         "jawaband" : "10 %",
-        "kuncijawaban" : ""
+        "kuncijawaban" : "10 %"
       },
       {
         "id" : 8,
@@ -70,7 +70,7 @@
         "jawabanb" : "Ekspor Barang Kena Pajak Berwujud, ekspor Barang Kena Pajak Tidak Berwujud",
         "jawabanc" : "Ekspor Barang Kena Pajak Tidak Berwujud, dan ekspor Jasa Kena Pajak",
         "jawaband" : "Ekspor Barang Kena Pajak Berwujud, dan ekspor Jasa Kena Pajak",
-        "kuncijawaban" : ""
+        "kuncijawaban" : "Ekspor Barang Kena Pajak Berwujud, ekspor Barang Kena Pajak Tidak Berwujud, dan ekspor Jasa Kena Pajak"
       },
       {
         "id" : 9,
@@ -79,7 +79,7 @@
         "jawabanb" : "Rp909.090,-",
         "jawabanc" : "Rp90.909,-",
         "jawaband" : "110.000,-",
-        "kuncijawaban" : ""
+        "kuncijawaban" : "Rp909.090,-"
       },
       {
         "id" : 10,
@@ -88,7 +88,7 @@
         "jawabanb" : "Rp849.999,-",
         "jawabanc" : "Rp425.000,-",
         "jawaband" : "Rp467.500,-",
-        "kuncijawaban" : ""
+        "kuncijawaban" : "Rp849.999,-"
       }
     ]
   }
